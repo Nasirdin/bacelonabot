@@ -16,8 +16,9 @@
 5. Вы получите сообщение со ссылкой на бота t.me/<никнейм_бота>, рекомендации по настройке аватарки, описание бота и список команд для настройки бота.
 ![alt text](https://www.spcdn.org/images/Ru-knowledge_base/chatbots/telegram/create-bot/scr5-min.png)
 
-Скопируйте значение токена (API) и ставите к .env (BOT_TOKEN : токен бота).
+Скопируйте значение токена (API) и ставите к .env (BOT_TOKEN = токен бота).
 ![alt text](https://www.spcdn.org/images/Ru-knowledge_base/chatbots/telegram/create-bot/scr6-min.png)
+![image](https://user-images.githubusercontent.com/65252165/171461241-4572cd90-dbe1-4047-af02-62ef0ba8a232.png)
 
 Потом запустите ваш код
 
