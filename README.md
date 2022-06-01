@@ -4,7 +4,7 @@
 
 После установки зависимости надо создать .env файл и создать переменную BOT_TOKEN
 а чтобы получить ТОКЕН надо создать бот.
-
+-----------------------------------------------
 ## Создание нового бота в Telegram
 
 1. Введите в поле поиска @BotFather и выберите бота.
@@ -19,5 +19,9 @@
 Скопируйте значение токена (API) и ставите к .env (BOT_TOKEN : токен бота).
 ![alt text](https://www.spcdn.org/images/Ru-knowledge_base/chatbots/telegram/create-bot/scr6-min.png)
 
-потом запустите ваш код
-## npm run dev || node index
+Потом запустите ваш код
+
+nodemon 
+## npm run dev
+-------------------
+## node index
