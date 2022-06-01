@@ -1,0 +1,83 @@
+[
+  {
+    "group": "Mission",
+    "name": "ETHBarcelona",
+    "type": "Main",
+    "     ": "Explore Blockchain Technology can help build a sustainable world full of Human Potential.",
+    "subtitle": "Learn from the best in the crypto scene, and put those networking skills to use.",
+    "description": "ETHBarcelona brings together 4000 makers, developers, and blockchain enthusiasts for a three-day conference to focus on education, innovation, art, and creating positive social impact.",
+    "url": "https://ethbarcelona.com/"
+  },
+  {
+    "group": "Launch Partners",
+    "name": "DoinGud",
+    "type": "NFT Platform",
+    "title": "DoinGud is an NFT ecosystem focused on inspiring creativity and positive social impact.",
+    "subtitle": "We pride ourselves on accessibility and sustainability, providing next-gen Web3 tools to empower our community to create, curate, collaborate, and connect with one another in the digital space.",
+    "description": "We are inviting creators from around the world to be featured in our next exhibitions. We aim to empower our community of creators, curators, and collectors to use their passion to create meaningful change in the world around them — and have fun doing it!",
+    "url": "https://doingud.com/"
+  },
+  {
+    "group": "Launch Partners",
+    "name": "FLOC",
+    "type": "NFT Creative Agency",
+    "title": "FLOC is the first to provide design strategy leadership and design services via NFT drops to crypto start-ups.",
+    "subtitle": "FLOC is a professional freelancers decentralised collective teaming up to deliver the design boost needed for crypto start-ups.",
+    "description": "FLOC is a professional freelancers decentralised collective teaming up to deliver the design boost needed for crypto start-ups.",
+    "url": "https://wearefloc.com/"
+  },
+  {
+    "group": "Launch Partners",
+    "name": "Polis Paral·lela Barcelona",
+    "type": "",
+    "title": "Join a tribe in Barcelona that cares about freedom, social good, decentralization.",
+    "subtitle": "We believe technology should free humanity, not enslave it. ",
+    "description": "",
+    "url": "https://twitter.com/PolisParallela"
+  },
+  {
+    "group": "Launch Partners",
+    "name": "Shrine House",
+    "type": "Decentralized record label and artist tooling platform.",
+    "title": "The world's first decentralized community governed record label.",
+    "subtitle": "We use decentralized lending markets to reimagine the concept of a record deal.",
+    "description": "We democratize power to all token holders by giving them ownership by operating as a DAO.",
+    "url": "https://shrine.house/"
+  },
+  {
+    "group": "Launch Partners",
+    "name": "Giant Cookie",
+    "type": "Creativity driven experiential agency",
+    "title": "Giant Cookie Creating new/ true/ meaningful content",
+    "subtitle": "We find the most authentic voice and unifying theme to build a story and connect with an audience.",
+    "description": "We are a network of creators, producers, thinkers, planners, designers, artists, makers, doers, with creative and production teams and partners all over Europe, Latin America and Asia.",
+    "url": "https://www.wildcookie.eu/"
+  },
+  {
+    "group": "Media Partners",
+    "name": "Be[in]crypto",
+    "type": "Media platform",
+    "title": "ETHBarcelona: la primera conferencia sobre Ethereum en España",
+    "subtitle": "¡Estamos más que emocionados de invitarte a ETHBarcelona, la primera conferencia de Ethereum que tendrá lugar en España, Barcelona, ​​del 6 al 8 de julio!",
+    "description": "ETHBarcelona tendrá lugar del 6 al 8 de julio en el emblemático Centro de Convenciones Internacionales de Barcelona – CCIB. Este evento será la primera conferencia sobre Ethereum que se celebre en España y está llamada a convertirse en un evento mundial por el enfoque que tiene sobre el impacto social y Web3.",
+    "url": "https://es.beincrypto.com/ethbarcelona-la-primera-conferencia-sobre-ethereum-en-espana/"
+  },
+  {
+    "group": "Media Partners",
+    "name": "Eclectic Method",
+    "type": "Video Remix & Musical Animations NFTs",
+    "title": "Video samples combined with music.",
+    "subtitle": "I am Jonny Wilson (Eclectic Method) and I make remix videos or video music. I make music using video samples combined with my own music. ",
+    "description": "",
+    "url": "https://www.eclecticmethod.net/"
+  },
+  {
+    "group": "Media Partners",
+    "name": "DeFi Prime",
+    "type": "Finance Media platform",
+    "title": "DeFi and Open Finance",
+    "subtitle": "We want to shed some light on how DeFi products build and how the ecosystem evolves over time. Our blog features interviews with DeFi projects, analytics, and important news.",
+    "description": "Decentralized Finance (DeFi) is the movement that leverages decentralized networks to transform old financial products into trustless and transparent protocols that run without intermediaries. We are the largest and oldest media outlet, focused solely on DeFi and Open Finance space. ",
+    "url": "https://defiprime.com/"
+  }
+]
