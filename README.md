@@ -19,5 +19,5 @@
 Скопируйте значение токена и ставите к .env {BOT_TOKEN : токен бота}.
 ![alt text](https://www.spcdn.org/images/Ru-knowledge_base/chatbots/telegram/create-bot/scr6-min.png)
 
-потом запустите ваш код 
-#npm run dev || node index
+потом запустите ваш код
+## npm run dev || node index
